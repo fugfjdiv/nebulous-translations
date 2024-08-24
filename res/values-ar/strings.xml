@@ -1038,7 +1038,7 @@
     <string name="Skin">جِلد</string>
     <string name="Custom_Skin">الصورة المُخصصة.</string>
     <string name="Color">لوْنَ الدائرة.</string>
-    <string name="RECENT_PLAYERS">تم زيارتها مؤخراً</string>
+    <string name="RECENT_PLAYERS">الاعبون الجدد </string>
     <string name="POSITION_CONTROL_STICK">"ضع عصا التحكم في المكان المراد"</string>
     <string name="POSITION_SPLIT_BUTTON">ضع زر التقسيم في المكان المراد</string>
     <string name="POSITION_EJECT_BUTTON">ضع زر الإطلاق في المكان المراد</string>
