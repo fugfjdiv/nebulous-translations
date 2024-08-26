@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"اللاعبين."</string>
+    <string name="Players">"اللاعبون."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
@@ -68,13 +68,13 @@
     <string name="Difficulty_">"الصعوبة"</string>
     <string name="Delay_Disconnect">"تأخير قطع الإتصال"</string>
 
-    <string name="Max_Players">"الحد الأقصى للاعبين"</string>
-    <string name="Min_Players">"الحد الأدنى للاعبين"</string>
+    <string name="Max_Players">"الحد الأقصى للاعبون"</string>
+    <string name="Min_Players">"الحد الأدنى للاعبون"</string>
 
     <string name="OK">"حسنا"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
-    <string name="Max_People">"الحد الأقصى للناس"</string>
+    <string name="Max_People">"الحد الأقصى للاعبون"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
@@ -104,7 +104,7 @@
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
 
     <string name="Level">"المستوى"</string>
-    <string name="PAUSED">"توقف"</string>
+    <string name="PAUSED">"متوقف"</string>
 
 
     <string name="FRIENDS">"صَـديـق"</string>
@@ -242,7 +242,7 @@
     <string name="Games_Won_">"المباريات المربوحة:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"يجب عليك الانتظار حتى نهاية الجولة"</string>
-    <string name="Dont_show_again">"عدم الإظهار مرة أخرى"</string>
+    <string name="Dont_show_again">"عدم الظهور مرة أخرى"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"تم العثور على نسخة احتياطية من احصائيات لاعب واحد مع نقاط خبرة اعلى . هل ترغب في استعادة النسخة الاحتياطية؟"</string>
 
     <string name="Special_Effects">"المؤثرات الخاصة"</string>
@@ -405,7 +405,7 @@
     <string name="Collect_5000_leaves_">"جمع 5000من الأوراق."</string>
 
 
-    <string name="Arena">"تَحدي!"</string>
+    <string name="Arena">"الساحة!"</string>
     <string name="Enter_the_Arena">"دخول تحدي"</string>
 
 
