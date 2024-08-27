@@ -68,8 +68,8 @@
     <string name="Difficulty_">"الصعوبة"</string>
     <string name="Delay_Disconnect">"تأخير قطع الإتصال"</string>
 
-    <string name="Max_Players">"الحد الأقصى للاعبين"</string>
-    <string name="Min_Players">"الحد الأدنى للاعبين"</string>
+    <string name="Max_Players">"الحد الأقصى للاعبون"</string>
+    <string name="Min_Players">"الحد الأدنى للاعبون"</string>
 
     <string name="OK">"حسنا"</string>
     <string name="CANCEL">"إلغاء"</string>
